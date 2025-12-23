@@ -1,4 +1,4 @@
-# sporomega
+# Spor-o-mega
 This mod add the unique Spore Hero part into SPORE
 
 <img width="1920" height="1080" alt="Spor-o-mega" src="https://github.com/user-attachments/assets/b799037f-3fbe-4432-a730-a4ca686100c3" />
