@@ -1,0 +1,28 @@
+int32s palettePagePartItemColumns
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+end
+int32s palettePagePartItemRows
+	0
+	1
+	2
+	3
+	4
+	5
+	6
+end
+keys palettePagePartItems
+	creature_rigblock~!ce_weapon_antler_01-symmetric
+	creature_rigblock~!ce_weapon_horn_01-symmetric
+	creature_rigblock~!ce_weapon_range_liquid_01
+	creature_rigblock~!ce_weapon_range_solid_01
+	creature_rigblock~!ce_weapon_club_01
+	creature_rigblock~!ce_weapon_slasher_01-symmetric
+	creature_rigblock~!sporomega
+end
+key palettePagePartParentPage ce_page_weapon

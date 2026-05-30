@@ -1,0 +1,10 @@
+int32s palettePagePartItemColumns
+	0
+end
+int32s palettePagePartItemRows
+	6
+end
+keys palettePagePartItems
+	creature_rigblock~!firespit
+end
+key palettePagePartParentPage ce_page_weapon

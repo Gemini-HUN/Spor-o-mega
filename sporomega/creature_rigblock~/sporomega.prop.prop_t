@@ -1,0 +1,22 @@
+key parent CreatureEditorTemplates!CreatureWeaponTemplate
+texts blockName
+	"Spor-o-mega"
+end
+float itemUnlockFindPercentage 0.01
+int32 itemUnlockLevel 4
+int32 modelCapabilityLiquid 4
+int32 modelCapabilityMean 5
+int32 modelCapabilitySpit 6
+int32 modelComplexityScore 2
+float modelMaxScale 2
+key modelMeshLOD0 editor_rigblock~!sporomega.rw4
+float modelMinScale 0.5
+int32 modelPrice 200
+vector3 modelRotationBallHandleOffset (0, -0.5, 0)
+int32 modelRunTimeBoneCount 0
+float modelScale 1
+key skinpaintDiffuseTexture skinPaint_texture~!diffuse.rw4
+bool skinpaintIgnoreParticles true
+float skinpaintMaxOcclusion 0
+key skinpaintSpecBumpTexture skinPaint_texture~!specbump.rw4
+key skinpaintTintMaskTexture skinPaint_texture~!black.rw4
