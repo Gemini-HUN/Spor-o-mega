@@ -1,5 +1,5 @@
 # Spor-o-mega
-* Total Downloads: ![Downloads](https://badgen.net/github/assets-dl/Gemini-HUN/Spor-o-mega?style=flat-square&color=d81b60&icon=github)
+### Total Downloads: ![Downloads](https://badgen.net/github/assets-dl/Gemini-HUN/Spor-o-mega?style=flat-square&color=d81b60&icon=github)
 
 This mod add the unique Spore Hero part into SPORE
 
