@@ -3,11 +3,14 @@
 
 This mod add the unique Spore Hero part into SPORE
 
+## How to install mods?
+I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/) for installing this and any other Spore mods. Please read the installation instructions first.
+
 <img width="1920" height="1080" alt="Spor-o-mega" src="https://github.com/user-attachments/assets/b799037f-3fbe-4432-a730-a4ca686100c3" />
 
 # This mod is not mine, I'm just upload and share the mod to archive it.
-I found here the mod: https://www.youtube.com/watch?v=rygjYsgL5jc&list=PLQs0_o6geuZBFP67ZILjfAr3jdiQMWNaV&index=415
+I found here the mod: [Youtube video](https://www.youtube.com/watch?v=rygjYsgL5jc&list=PLQs0_o6geuZBFP67ZILjfAr3jdiQMWNaV&index=415)
 
-Mod created by Croakore
+Mod created by **Croakore**
 
-All rights reserved to Max Games R.S. because of upload the mod
+All rights reserved to **Max Games R.S.** because of upload the mod
