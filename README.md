@@ -11,6 +11,8 @@ I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/)
 # This mod is not mine, I'm just upload and share the mod to archive it.
 I found here the mod: [YouTube video](https://www.youtube.com/watch?v=rygjYsgL5jc&list=PLQs0_o6geuZBFP67ZILjfAr3jdiQMWNaV&index=415)
 
+My updated version is fix a bug when you use spit ability and your pack mates receive damage from it.
+
 Mod created by **Croakore**
 
 All rights reserved to **Max Games R.S.** because of upload the mod
