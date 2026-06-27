@@ -13,6 +13,8 @@ I found here the mod: [YouTube video](https://www.youtube.com/watch?v=rygjYsgL5j
 
 My updated version is fix a bug when you use spit ability and your pack mates receive damage from it.
 
+**Feedback from DavoOnline by FrenchSPORE**
+
 Mod created by **Croakore**
 
 All rights reserved to **Max Games R.S.** because of upload the mod
