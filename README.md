@@ -11,9 +11,15 @@ I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/)
 ## This mod is not mine. I am only archiving and sharing it.
 Original source: [YouTube video](https://www.youtube.com/watch?v=rygjYsgL5jc&list=PLQs0_o6geuZBFP67ZILjfAr3jdiQMWNaV&index=415)
 
-My updated version is fix a bug when you use spit ability and your pack mates receive damage from it.
+Bug Fix: Spit ability causing game freeze and incorrect damage behavior
 
-My updated version fixes a bug where using the Spit ability caused your pack members to receive damage.
+Fixed an issue where using the Spit ability on enemies during the Creature Phase could cause incorrect damage behavior affecting pack allies when they attacked those enemies.
+
+This issue could lead to an unstable game state and cause the game to freeze with a black screen when exiting the Creature Editor.
+
+The cause was related to the ability being handled incorrectly by the game engine, including the missing green smiley status indicator for pack allies, which resulted in the freeze.
+
+The updated version fixes this issue by adjusting the ability behavior and keeping it within the level range that the game engine can properly handle.
 
 The bug was originally reported by **FrenchSPORE** on **DavoOnline**, who also confirmed that the fix works.
 
