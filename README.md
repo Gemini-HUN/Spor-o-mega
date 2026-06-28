@@ -23,6 +23,10 @@ Original source: [YouTube video](https://www.youtube.com/watch?v=rygjYsgL5jc&lis
 
 The bug was originally reported by **FrenchSPORE** on **DavoOnline**, who also confirmed that the fix works.
 
-Mod created by **Croakore**
+## Credits
 
-All rights reserved to **Max Games R.S.** because of upload the mod
+* Mod created by Croakore.
+* Original source was shared by Max Games R.S. through the YouTube video linked above.
+* Original creature weapon part from Spore Hero (Wii), created by Maxis and published by Electronic Arts.
+
+All rights belong to their respective owners.
