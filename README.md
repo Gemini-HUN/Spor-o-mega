@@ -9,11 +9,13 @@ I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/)
 <img width="1920" height="1080" alt="Spor-o-mega" src="https://github.com/user-attachments/assets/b799037f-3fbe-4432-a730-a4ca686100c3" />
 
 ## This mod is not mine. I am only archiving and sharing it.
-I found here the mod: [YouTube video](https://www.youtube.com/watch?v=rygjYsgL5jc&list=PLQs0_o6geuZBFP67ZILjfAr3jdiQMWNaV&index=415)
+Original source: [YouTube video](https://www.youtube.com/watch?v=rygjYsgL5jc&list=PLQs0_o6geuZBFP67ZILjfAr3jdiQMWNaV&index=415)
 
 My updated version is fix a bug when you use spit ability and your pack mates receive damage from it.
 
-**Bug reported and my fix mod got feedback from DavoOnline by FrenchSPORE**
+My updated version fixes a bug where using the Spit ability caused your pack members to receive damage.
+
+The bug was originally reported by **FrenchSPORE** on **DavoOnline**, who also confirmed that the fix works.
 
 Mod created by **Croakore**
 
