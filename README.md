@@ -8,8 +8,9 @@ I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/)
 
 <img width="1920" height="1080" alt="Spor-o-mega" src="https://github.com/user-attachments/assets/b799037f-3fbe-4432-a730-a4ca686100c3" />
 
-## [Original version with fix](https://github.com/Gemini-HUN/Spor-o-mega/releases/tag/1.0.1)
-## My reworked version:
+* [Original version with fix](https://github.com/Gemini-HUN/Spor-o-mega/releases/tag/1.0.1) this version is same as the original archived mod just I'm fixed a gameplay bug. (read the description)
+* [My reworked version](https://github.com/Gemini-HUN/Spor-o-mega/releases/tag/v1.1.0-alpha)
+This version is include the fix and make my own balance idea. (It's pre-releas that need more test and balance)
 
 ## This mod is not mine. I am only archiving and sharing it.
 Original source: [YouTube video](https://www.youtube.com/watch?v=rygjYsgL5jc&list=PLQs0_o6geuZBFP67ZILjfAr3jdiQMWNaV&index=415)
