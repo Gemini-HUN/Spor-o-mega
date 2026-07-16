@@ -8,8 +8,7 @@ I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/)
 
 <img width="1920" height="1080" alt="Spor-o-mega" src="https://github.com/user-attachments/assets/b799037f-3fbe-4432-a730-a4ca686100c3" />
 
-## Original version but fixes:
-
+## [Original version with fix](https://github.com/Gemini-HUN/Spor-o-mega/releases/tag/1.0.1)
 ## My reworked version:
 
 ## This mod is not mine. I am only archiving and sharing it.
