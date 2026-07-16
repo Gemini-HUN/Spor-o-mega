@@ -6,11 +6,11 @@ This mod adds the unique Spore Hero parts to SPORE.
 ## How to install mods?
 I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/) for installing this and any other Spore mods. Please read the installation instructions first.
 
-<img width="1920" height="1080" alt="Spor-o-mega" src="https://github.com/user-attachments/assets/b799037f-3fbe-4432-a730-a4ca686100c3" />
-
 * [Original version with fix](https://github.com/Gemini-HUN/Spor-o-mega/releases/tag/1.0.1) This version preserves the original mod and only fixes a gameplay bug. (Read the description!)
 * [My reworked version](https://github.com/Gemini-HUN/Spor-o-mega/releases/tag/v1.1.0-alpha)
 This version includes the bug fix and my own balance changes. (It's pre-released version that need more test and balance! Read the description!)
+
+<img width="1920" height="1080" alt="Spor-o-mega" src="https://github.com/user-attachments/assets/b799037f-3fbe-4432-a730-a4ca686100c3" />
 
 ## This mod is not mine. I am only archiving and sharing it.
 Original source: [YouTube video](https://www.youtube.com/watch?v=rygjYsgL5jc&list=PLQs0_o6geuZBFP67ZILjfAr3jdiQMWNaV&index=415)
