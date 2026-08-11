@@ -1,1 +1,6 @@
-
+<mod displayName="Spor-o-mega"
+     unique="Spor-o-mega"
+     description="This mod adds the unique Spore Hero parts to SPORE."
+     installerSystemVersion="1.0.1.2"
+     isExperimental="true"
+</mod>
