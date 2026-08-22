@@ -32,6 +32,7 @@ Original source: [YouTube video](https://www.youtube.com/watch?v=rygjYsgL5jc&lis
 
 The bug was originally reported by **FrenchSPORE** on **DavoOnline**, who also confirmed that the fix works.
 
+* Fixed the Force save dependency reported by **Moon**
 ## Credits
 
 * Mod created by Croakore.
