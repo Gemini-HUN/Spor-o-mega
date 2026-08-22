@@ -12,6 +12,9 @@ This version includes the bug fix and my own balance changes. (**Pre-release**: 
 ### Highly recommended
 Scroll the [Releases](https://github.com/Gemini-HUN/Spor-o-mega/releases) for more details!
 
+## Requirement
+**Moon** noticed this mod need force save mod.
+
 <img width="1920" height="1080" alt="Spor-o-mega" src="https://github.com/user-attachments/assets/b799037f-3fbe-4432-a730-a4ca686100c3" />
 
 ## This mod is not mine. I am only archiving and sharing it.
