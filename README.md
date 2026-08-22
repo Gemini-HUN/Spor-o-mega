@@ -37,7 +37,7 @@ The bug was originally reported by **FrenchSPORE** on **DavoOnline**, who also c
 
 * Mod created by Croakore.
 * Original source was shared by Max Games R.S. through the YouTube video linked above.
-* Assistance by @VanillaCold
+* Assistance by [@VanillaCold](https://github.com/VanillaCold)
 * Original creature weapon part from Spore Hero (Wii), created by Maxis and published by Electronic Arts.
 
 All rights belong to their respective owners.
