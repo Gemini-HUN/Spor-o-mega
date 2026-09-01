@@ -14,9 +14,6 @@ Scroll the [Releases](https://github.com/Gemini-HUN/Spor-o-mega/releases) for mo
 
 <img width="506" height="396" alt="spor-o-mega-test" src="https://github.com/user-attachments/assets/cffc4119-d45c-49cd-a9a8-d3e868b237c8" />
 
-## Requirement
-**Moon** noticed this mod need force save mod.
-
 ## This mod is not mine. I am only archiving and sharing it.
 Original source: [YouTube video](https://www.youtube.com/watch?v=rygjYsgL5jc&list=PLQs0_o6geuZBFP67ZILjfAr3jdiQMWNaV&index=415)
 
