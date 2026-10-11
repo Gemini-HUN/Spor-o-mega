@@ -27,7 +27,7 @@ The bug was originally reported by **FrenchSPORE** on **DavoOnline**, who also c
 
 * Fixed the Force save dependency, reported by **Moon**, now you can save your creatures without any Force Save mod.
 
-* Fixed weapon category and added new page for the creature part.
+* Fixed weapon category and added new page to the creature part for better mod compatibility.
 ## Credits
 
 * Mod created by Croakore.
