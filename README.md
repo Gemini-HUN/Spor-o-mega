@@ -19,18 +19,15 @@ Screenshot by **Moon**
 Original source: [YouTube video](https://www.youtube.com/watch?v=rygjYsgL5jc&list=PLQs0_o6geuZBFP67ZILjfAr3jdiQMWNaV&index=415)
 
 ### Bug Fix: Spit ability causing game freeze and incorrect damage behavior
-
 * Fixed an issue where using the Spit ability on enemies during the Creature Phase could cause incorrect damage behavior affecting pack allies when they attacked those enemies.
-
 * This issue could lead to an unstable game state and cause the game to freeze with a black screen when exiting the Creature Editor.
-
 * The cause was related to the ability being handled incorrectly by the game engine, including the missing green smiley status indicator for pack allies, which resulted in the freeze.
-
-* The updated version fixes this issue by adjusting the ability behavior and keeping it within the level range that the game engine can properly handle.
-
+* The updated version fixes this issue by adjusting the ability behavior and keeping it within the level range that the game engine can properly handle. <br>
 The bug was originally reported by **FrenchSPORE** on **DavoOnline**, who also confirmed that the fix works.
 
-* Fixed the Force save dependency, reported by **Moon**
+* Fixed the Force save dependency, reported by **Moon**, now you can save your creatures without any Force Save mod.
+
+* Fixed weapon category and added new page for the creature part.
 ## Credits
 
 * Mod created by Croakore.
