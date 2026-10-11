@@ -35,7 +35,8 @@ The bug was originally reported by **FrenchSPORE** on **DavoOnline**, who also c
 
 * Mod created by Croakore.
 * Original source was shared by Max Games R.S. through the YouTube video linked above.
-* Assistance fix save without forcesave by [@VanillaCold](https://github.com/VanillaCold)
+* Help fix save without forcesave by [@VanillaCold](https://github.com/VanillaCold)
+* Helped with part pages by **V0idling** from Discord .
 * Original creature weapon part from Spore Hero (Wii), created by Maxis and published by Electronic Arts.
 
 All rights belong to their respective owners.
